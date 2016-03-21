@@ -1,4 +1,4 @@
-# es6-playground
+# ES6-playground [![Build Status][travis-image]][travis-url]
 A place to learn and play ES6 features.
 
 To use babel transpiler to compile ES6 to ES5:
