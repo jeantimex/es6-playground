@@ -1,4 +1,4 @@
-# ES6 Playground
+# ES6 Playground [![Build Status](https://travis-ci.org/jeantimex/es6-playground.svg?branch=master)](https://travis-ci.org/jeantimex/es6-playground)
 A place to learn and play ES6 features.
 
 To use babel transpiler to compile ES6 to ES5:
